@@ -1,5 +1,5 @@
 # Data Science Jobs Analysis
-There are various roles in Data Science field such as **Data Engineer, Data Analyst and Data Scientist** which require different technologies and skills. So, this project was focused on **putting everything on a single interface and getting clarity on what tools and skills are in-demand according to the different roles.**
+There are various roles in Data Science field such as **Data Engineer, Data Analyst and Data Scientist** which require different technologies and skills. So, this project was focused on **putting everything on a single interface and getting clarity on what tools and skills are in-demand for different roles.**
 ## Data Source
 Data was scraped using **Power Automate from naukri.com** (Indian website for job search) and saved into **Excel**
 
