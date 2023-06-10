@@ -10,7 +10,7 @@ Data was cleaned and processed in **Jupyter Notebook** (notebooks can be found i
 A custom map for India was uploaded to Power BI (map source is mentioned below) and mulitple interactive visuals were added to dashboard for an easy user experience and insights.
 
 
-
+![dashboard](dataroles_dashboard.png)
 # References
 - Map data: https://github.com/datameet/maps
 - Jobs Data: https://www.naukri.com/
