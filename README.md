@@ -1,5 +1,7 @@
 # Data Science Jobs Analysis
-There are various roles in Data Science field such as **Data Engineer, Data Analyst and Data Scientist** which require different technologies and skills. So, this project was focused on **putting everything on a single interface and getting clarity on what tools and skills are in-demand for different roles.**
+
+## Objective
+To develop a single, interactive interface that captures emerging skill requirements for in-demand job roles, including Data Engineer, Data Analyst, and Data Scientist. The goal was to streamline the career transition process by facilitating the knowledge of key skills required in each role and reduce the amount of time needed for research
 ## Data Source
 Data was scraped using **Power Automate from naukri.com** (Indian website for job search) and saved into **Excel**
 
