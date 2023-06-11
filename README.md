@@ -15,7 +15,10 @@ Data was cleaned and processed in **Jupyter Notebook** (notebooks can be found i
 - Feature Engineering
 
 ### Data Visualization/Business Intelligence
-A custom map for India was uploaded to Power BI (map source is mentioned below) and mulitple interactive visuals were added to dashboard for an easy user experience and insights.
+- Pie chart illustrating the percentage breakdown of jobs based on required experience.
+- Bar chart displaying the demand for different technologies in the job market.
+- Column charts comparing the requirement of programming languages and libraries in the job market.
+- A custom map of India was uploaded to Power BI (the map source is mentioned below).
 
 
 ![dashboard](dataroles_dashboard.png)
